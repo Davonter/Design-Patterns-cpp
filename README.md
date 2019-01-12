@@ -9,7 +9,7 @@ C++23种设计模式
 
 
 | 类型 | 描述 |
-|-|
+|-|-|
 | 创建型模式 (Creational Patterns) | 用于构建对象，以便它们可以从实现系统钟分离出来 |
 | 结构性模式 (structural Patterns) | 用于在许多不同的对象之间形成大型对象结构 |
 | 行为型模式 (Behavioral Patterns) | 用于对象之间的算法，关系和指责 |
