@@ -3,8 +3,7 @@
 
 #include "Product.h"
 
-class ConcreteProductA : public Product
-{
+class ConcreteProductA : public Product {
 public:
     ConcreteProductA();
     virtual ~ConcreteProductA();
